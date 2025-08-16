@@ -1,12 +1,34 @@
-# React + Vite
+# React + Vite + Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+3D-цилиндр с анимацией вращения, написанный с использованием React и Three.js.  
+Проект входит в коллекцию **100+ UI компонентов** для быстрой верстки и вдохновения.
 
-Currently, two official plugins are available:
+<p align="center">
+<img width="450" height="auto" alt="Превью проекта" src="https://github.com/user-attachments/assets/c7ece5a5-70ad-4db7-a178-7d7196547d39" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Возможности
 
-## Expanding the ESLint configuration
+- 🌫️ 3D-цилиндр с анимацией вращения
+- 🎨 Минималистичный и адаптивный дизайн  
+- ⚡ Лёгкая интеграция в любые проекты  
+- 🔥 Чистая и понятная верстка (HTML, CSS, JS, React, Three.js)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Установка и запуск
+
+1. Клонировать репозиторий:
+   
+   ```bash
+   git clone https://github.com/100plusUI/3D-cylinder-react-threejs.git
+   ```
+
+2. Открыть index.html в браузере
+(или запустить через любой локальный сервер)
+
+---
+
+📢 **Следи за обновлениями проекта:**
+
+- [📨 Telegram-канал](https://t.me/ui100plus)  
+- [📸 Instagram](https://www.instagram.com/100plusui)
+
